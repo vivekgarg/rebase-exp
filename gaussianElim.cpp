@@ -550,3 +550,7 @@ void PrintAry(float *ary, int ary_size)
 }
 #endif
 
+
+void foo(void)
+{
+}
